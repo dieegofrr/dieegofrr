@@ -1,4 +1,4 @@
-## Oi! Eu sou o Diego.
+## Olá mundo, eu sou o Diego.
 
 - 🌱 Estudando TypeScript
 
