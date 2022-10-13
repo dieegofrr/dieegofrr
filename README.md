@@ -1,6 +1,4 @@
-## Olá mundo, eu sou o Diego.
-
-- 🌱 Estudando TypeScript
+## Hello world, I'm Diego!!
 
 <div align="center">
   <a href="https://github.com/diferreiradev">
